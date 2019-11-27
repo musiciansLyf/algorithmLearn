@@ -1,0 +1,25 @@
+
+W
+squid:S106›"9Replace this use of System.out or System.err by a logger.(Ìšÿµ8‚»ž½±-
+W
+squid:S106¿"9Replace this use of System.out or System.err by a logger.(¥ õ³8‰çº½±-
+W
+squid:S106”"9Replace this use of System.out or System.err by a logger.(Øùœí8‚»ž½±-
+V
+squid:S106E"9Replace this use of System.out or System.err by a logger.(Øùœí8ìÙõ»±-
+jsquid:UselessImportCheck":Remove this unused import 'javax.xml.transform.Templates'.(Ú‡žÙüÿÿÿÿ8Üþ€¼±-
+gsquid:UselessImportCheck"7Remove this unused import 'javax.xml.transform.Source'.(„È¦Žÿÿÿÿÿ8ÆÃ•¼±-
+V
+squid:S106^"9Replace this use of System.out or System.err by a logger.(æñè¨8ÆÃ•¼±-
+W
+squid:S106ƒ"9Replace this use of System.out or System.err by a logger.(Šýü¢8þå¥½±-
+nsquid:CommentedOutCodeLine&"<This block of commented-out lines of code should be removed.(­®Ãáýÿÿÿÿ8è…°»±-
+{
+squid:S135L"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆžÿÿÿÿÿ8¦¤‹¼±-
+[
+squid:S1066"9Replace this use of System.out or System.err by a logger.(ÓÞ€Ìýÿÿÿÿ8û®Ê»±-
+\
+squid:S106¢"9Replace this use of System.out or System.err by a logger.(ì­øúÿÿÿÿ8‚»ž½±-
+{
+squid:S135,"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆžÿÿÿÿÿ8¿È¿»±-
+osquid:CommentedOutCodeLine¸"<This block of commented-out lines of code should be removed.(ý••Œýÿÿÿÿ8•û´½±-

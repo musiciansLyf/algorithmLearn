@@ -1,0 +1,16 @@
+
+V
+squid:S106f"9Replace this use of System.out or System.err by a logger.(ÃŒ¶à8İ‹Ç±±-
+jsquid:S00112Y"FDefine and throw a dedicated exception instead of using a generic one.( ÏÛûûÿÿÿÿ8ıÎ¯±±-
+V
+squid:S106\"9Replace this use of System.out or System.err by a logger.(¿ÆÉ8¯¾±±-
+Fsquid:S1125X"(Remove the literal "true" boolean value.(ªšüÂ8ıÎ¯±±-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ãõ±ºøÿÿÿÿ8ÕŒØ±±-
+jsquid:S00112d"FDefine and throw a dedicated exception instead of using a generic one.( ÏÛûûÿÿÿÿ8–ùÄ±±-
+Fsquid:S1125M"(Remove the literal "true" boolean value.(ªšüÂ8¼´¨±±-
+jsquid:S00112B"FDefine and throw a dedicated exception instead of using a generic one.(Šİàöûÿÿÿÿ8œ€¡±±-
+Fsquid:S1125c"(Remove the literal "true" boolean value.(ªšüÂ8–ùÄ±±-
+Ksquid:S1125A"(Remove the literal "true" boolean value.(êÁÅ·ùÿÿÿÿ8™ƒş°±-
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ğ¶“8®µã±±-
+jsquid:S00112N"FDefine and throw a dedicated exception instead of using a generic one.(ìÓ°Üùÿÿÿÿ8¼´¨±±-

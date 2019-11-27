@@ -1,0 +1,12 @@
+
+]squid:UselessImportCheck"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8¥ÍÈí¯-
+\squid:S1155I">Use isEmpty() to check whether the collection is empty or not.(Ö±»ý8áþ€ó¯-
+[
+squid:S106("9Replace this use of System.out or System.err by a logger.(‚ðŒˆüÿÿÿÿ8¥ÍÈí¯-
+[
+squid:S1060"9Replace this use of System.out or System.err by a logger.(¦Öç²ûÿÿÿÿ8¸–“ó¯-
+[
+squid:S1062"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ8™É”ó¯-
+Osquid:S1135
+"2Complete the task associated to this TODO comment.(£°§\8 –§í¯-
+asquid:S1155Q">Use isEmpty() to check whether the collection is empty or not.(á‡Ÿüþÿÿÿÿ8ÔãŠó¯-

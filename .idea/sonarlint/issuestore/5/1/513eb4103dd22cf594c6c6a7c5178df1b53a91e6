@@ -1,0 +1,33 @@
+
+[
+squid:S1066"9Replace this use of System.out or System.err by a logger.(ÎËØæûÿÿÿÿ8šªÚ-
+[
+squid:S106""9Replace this use of System.out or System.err by a logger.(ÙŸééúÿÿÿÿ8ìƒò·±-
+Fsquid:S1125s"(Remove the literal "true" boolean value.(ªšüÂ8šªÚ-
+V
+squid:S106/"9Replace this use of System.out or System.err by a logger.(ûÔÅ‚8šªÚ-
+[
+squid:S106g"9Replace this use of System.out or System.err by a logger.(ïò¤¸øÿÿÿÿ8šªÚ-
+[
+squid:S106v"9Replace this use of System.out or System.err by a logger.(Ã©ÜÌùÿÿÿÿ8šªÚ-
+Gsquid:S1125ƒ"(Remove the literal "true" boolean value.(ªšüÂ8šªÚ-
+V
+squid:S106$"9Replace this use of System.out or System.err by a logger.(Ë‹º8–¿³àÎ-
+[
+squid:S106#"9Replace this use of System.out or System.err by a logger.(ÀƒÏÈûÿÿÿÿ8ìƒò·±-
+ksquid:S00112„"FDefine and throw a dedicated exception instead of using a generic one.( ÏÛûûÿÿÿÿ8šªÚ-
+nsquid:CommentedOutCodeLinet"<This block of commented-out lines of code should be removed.(‹ş’Ğşÿÿÿÿ8šªÚ-
+Gsquid:S1125•"(Remove the literal "true" boolean value.(ªšüÂ8šªÚ-
+nsquid:CommentedOutCodeLinee"<This block of commented-out lines of code should be removed.(ö½æÕıÿÿÿÿ8šªÚ-
+[
+squid:S106%"9Replace this use of System.out or System.err by a logger.(ÁÖƒ°ıÿÿÿÿ8šªÚ-
+Zsquid:S1854"7Remove this useless assignment to local variable "key".(ûääüÿÿÿÿ8šªÚ-
+[
+squid:S106!"9Replace this use of System.out or System.err by a logger.(¦²æÒùÿÿÿÿ8ìƒò·±-
+\
+squid:S106‰"9Replace this use of System.out or System.err by a logger.(”úâíûÿÿÿÿ8šªÚ-
+Dsquid:S1481"&Remove this unused "c" local variable.(¤£Ÿô8ºÓ’Ï-
+Ksquid:S1125d"(Remove the literal "true" boolean value.(êÁÅ·ùÿÿÿÿ8šªÚ-
+\
+squid:S106˜"9Replace this use of System.out or System.err by a logger.(‘ÑÔÊøÿÿÿÿ8šªÚ-
+ksquid:S00112–"FDefine and throw a dedicated exception instead of using a generic one.( ÏÛûûÿÿÿÿ8šªÚ-
